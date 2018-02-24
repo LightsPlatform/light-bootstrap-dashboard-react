@@ -1,4 +1,4 @@
-import Dashboard from 'views/Dashboard/Dashboard';
+import Dashboard from 'views/Dashboard/';
 import UserProfile from 'views/UserProfile/UserProfile';
 import TableList from 'views/TableList/TableList';
 import Typography from 'views/Typography/Typography';
